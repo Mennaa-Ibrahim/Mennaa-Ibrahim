@@ -1,4 +1,7 @@
-<img width="736" height="414" alt="PC wallpaper" src="https://github.com/user-attachments/assets/0bc80a40-2984-4b99-a1d0-e45a6cbf5c3f" />
+<p align="center">
+  <img width="100%" height="280" alt="Welcome Header" src="https://github.com/user-attachments/assets/101b26f2-1697-4b46-9446-7bd82b1c8dd0" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Menna Ibrahim</h1>
 <h3 align="center">CS Student | AI & Software Engineering | Siemens Ambassador | Vice Head of PM @ MEGA MU</h3>
 
