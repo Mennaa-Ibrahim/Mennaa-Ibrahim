@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="280" alt="Welcome Header" src="https://github.com/user-attachments/assets/101b26f2-1697-4b46-9446-7bd82b1c8dd0" />
+  <img width="100%" height="280" alt="Welcome Header" src="https://github.com/user-attachments/assets/123ec0d4-df9d-4569-95ab-67191aa572f6" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Menna Ibrahim</h1>
