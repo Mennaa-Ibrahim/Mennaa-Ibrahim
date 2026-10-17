@@ -21,11 +21,11 @@
 </p>
 
 ### 👩‍💻 About Me
-- 🎓 **Computer Science Student** at Mansoura University.
-- 🚀 **Siemens Digital Industries Software** Student Ambassador.
-- 💡 **Vice Head of Project Management** Circle at MEGA MU.
-- 🧩 Passionate about **Competitive Programming**, **AI**, and **Software Engineering**.
-- 🛠️ Currently building and refining project management frameworks and roadmaps.
+-  **Computer Science Student** at Mansoura University.
+-  **Siemens Digital Industries Software** Student Ambassador.
+-  **Vice Head of Project Management** Circle at MEGA MU.
+-  Passionate about **Competitive Programming**, **AI**, and **Software Engineering**.
+-  Currently building and refining project management frameworks and roadmaps.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
